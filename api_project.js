@@ -1,0 +1,1 @@
+define({  "name": "jafar",  "version": "1.0.0",  "description": "An API built for gogeneie.com",  "title": "Docs for API consumption",  "url": "http://jafar-api.herokuapp.com/v1/",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2017-05-01T05:29:55.125Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }});
